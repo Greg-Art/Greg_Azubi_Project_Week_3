@@ -13,3 +13,6 @@ Total no. of messages sent
 Total connections by month
 Total connections by company 
 Total connections by positions
+
+## Link To Profile
+[Gregory Arthur's Individual Project Week 3.zip](https://github.com/Greg-Art/Greg_Azubi_Project_Week_3/files/10880213/Gregory.Arthur.s.Individual.Project.Week.3.zip)
